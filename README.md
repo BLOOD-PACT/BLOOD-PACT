@@ -1,8 +1,6 @@
 <p align="center">
   <img src= "https://cdn.discordapp.com/attachments/1171875531004837998/1182385354909683732/276055043-bb301bd9-3cb1-469c-b288-a56ca7ecfece.png?ex=6584812c&is=65720c2c&hm=3e202af44ce439ffe68cbc1e901162accfa090d421f90efa75f17d9f4de79058&"
 </p>
-
-![tumblr_b35ad22d8d1d88f32b4fc28d31f3f487_bc81253a_400](https://github.com/BLOOD-PACT/BLOOD-PACT/assets/148043047/bb301bd9-3cb1-469c-b288-a56ca7ecfece)
   
 - ![d2567fr-21de323c-a01a-4e69-97f2-170d8ce622ec](https://github.com/BLOOD-PACT/BLOOD-PACT/assets/148043047/14d00611-8191-474b-9708-0636f6384d11) - Asra
 
